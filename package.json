@@ -1,0 +1,21 @@
+{
+  "name": "night-sky-theme",
+  "displayName": "Night Sky Theme",
+  "description": "Embrace the essence of coding with a theme that lets you taste the clouds and smell the wind in every line of your code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystic Breeze - A Coding Odyssey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic Breeze - A Coding Odyssey-color-theme.json"
+      }
+    ]
+  }
+}
