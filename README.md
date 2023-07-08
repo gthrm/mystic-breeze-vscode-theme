@@ -1,6 +1,8 @@
 # Mystic Breeze - A Coding Odyssey
 
-Mystic Breeze is a dark, cool-toned theme for Visual Studio Code, designed to be easy on the eyes.
+Mystic Breeze - A Coding Odyssey is a dark, cool-toned theme for Visual Studio Code, designed to be easy on the eyes.
+
+![Example](https://github.com/gthrm/mystic-breeze-vscode-theme/assets/38502733/10b79749-8bb9-4536-b34b-24242119a80d)
 
 ## Installation
 
