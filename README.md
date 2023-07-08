@@ -1,16 +1,21 @@
-# night-sky-theme README
+# Mystic Breeze - A Coding Odyssey
 
-## Working with Markdown
+Mystic Breeze is a dark and soothing theme for Visual Studio Code. It combines varying shades of deep blues and purples for a truly unique coding experience. This theme helps to reduce eye strain during long coding sessions and enhances readability of code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation Instructions
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Clone this repository to your local machine.
 
-## For more information
+```sh
+git clone <https://github.com/gthrm/mystic-breeze-vscode-theme.git>
+```
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+2. Open VS Code and click on the Extensions tab on the side bar (or press Ctrl+Shift+X / Cmd+Shift+X).
 
-**Enjoy!**
+3. Click on the ... in the top right corner of the Extensions tab and select "Install from VSIX..."
+
+4. Navigate to the folder where you cloned the repository, select the .vsix file and click "Install".
+
+5. Finally, to apply the theme, go to File > Preferences > Color Theme (or press Ctrl+K / Cmd+K, then press T) and select "Mystic Breeze - A Coding Odyssey".
+
+Enjoy your coding journey with Mystic Breeze!
