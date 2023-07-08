@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "night-sky-theme" extension will be documented in this file.
+All notable changes to the "Mystic Breeze Vscode Theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.2] - 2023-07-09
 
-## [Unreleased]
+- Updated README.md to reflect changes in the installation instructions.
+
+## [0.0.1] - 2023-07-08
 
 - Initial release

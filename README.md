@@ -1,23 +1,24 @@
 # Mystic Breeze - A Coding Odyssey
 
-Mystic Breeze is a dark and soothing theme for Visual Studio Code. It combines varying shades of deep blues and purples for a truly unique coding experience. This theme helps to reduce eye strain during long coding sessions and enhances readability of code.
+Mystic Breeze is a dark, cool-toned theme for Visual Studio Code, designed to be easy on the eyes.
 
-![Example](https://github.com/gthrm/mystic-breeze-vscode-theme/assets/38502733/10b79749-8bb9-4536-b34b-24242119a80d)
+## Installation
 
-## Installation Instructions
+1. Open the **Extensions sidebar** in VS Code. `View → Extensions`
+2. Search for `Mystic Breeze`, and install it.
+3. After installation, open the **Command Palette** `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+4. Type `theme`, choose `Preferences: Color Theme`, and select `Mystic Breeze` from the list.
 
-1. Clone this repository to your local machine.
+Enjoy coding in the soothing colors of the Mystic Breeze!
 
-```sh
-git clone <https://github.com/gthrm/mystic-breeze-vscode-theme.git>
-```
+## Screenshots
 
-2. Open VS Code and click on the Extensions tab on the side bar (or press Ctrl+Shift+X / Cmd+Shift+X).
+(Add some screenshots of your theme here)
 
-3. Click on the ... in the top right corner of the Extensions tab and select "Install from VSIX..."
+## Contributing
 
-4. Navigate to the folder where you cloned the repository, select the .vsix file and click "Install".
+If you have suggestions for improvements, please open an issue or a pull request.
 
-5. Finally, to apply the theme, go to File > Preferences > Color Theme (or press Ctrl+K / Cmd+K, then press T) and select "Mystic Breeze - A Coding Odyssey".
+## License
 
-Enjoy your coding journey with Mystic Breeze!
+This project is licensed under the terms of the [MIT License](./LICENSE).
