@@ -2,7 +2,7 @@
 
 Mystic Breeze is a dark and soothing theme for Visual Studio Code. It combines varying shades of deep blues and purples for a truly unique coding experience. This theme helps to reduce eye strain during long coding sessions and enhances readability of code.
 
-![Example](./example.png)
+![Example](https://github.com/gthrm/mystic-breeze-vscode-theme/assets/38502733/10b79749-8bb9-4536-b34b-24242119a80d)
 
 ## Installation Instructions
 
